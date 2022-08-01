@@ -1,4 +1,4 @@
-# ASSIGNEMNT 3
+# SPEECH AND WRITING RECOGNITION
 _________________________________
 Authored by Team 18:
 V S S Anirudh Sharma, EE18B036
