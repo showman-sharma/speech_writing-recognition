@@ -18,11 +18,10 @@ With the Speech and Handwriting data class folders, HMM-Code and the following c
 
 Run the following command:
 
-=====================================================================================================================================================
-
+```
 >>python3 DTW_speech.py <optional: Path of Data super folder>
 
-=====================================================================================================================================================
+```
 
 Please fill in the paths of the .txt dataset files accordingly. Default is current folder path.
 
@@ -32,11 +31,10 @@ Please fill in the paths of the .txt dataset files accordingly. Default is curre
 
 Run the following command:
 
-=====================================================================================================================================================
-
+```
 >>python3 DTW_writing.py <optional: Path of Data super folder>
 
-=====================================================================================================================================================
+```
 
 Please fill in the paths of the .txt dataset files accordingly. Default is current folder path.
 
@@ -46,11 +44,9 @@ Please fill in the paths of the .txt dataset files accordingly. Default is curre
 
 Run the following command:
 
-=====================================================================================================================================================
-
+```
 >>python3 HMM_speech.py <optional: Path of Data super folder>
-
-=====================================================================================================================================================
+```
 
 Please fill in the paths of the .txt dataset files accordingly. Default is current folder path.
 
@@ -61,11 +57,10 @@ Please fill in the paths of the .txt dataset files accordingly. Default is curre
 
 Run the following command:
 
-=====================================================================================================================================================
-
+```
 >>python3 HMM_writing.py <optional: Path of Data super folder>
 
-=====================================================================================================================================================
+```
 
 Please fill in the paths of the .txt dataset files accordingly. Default is current folder path.
 
